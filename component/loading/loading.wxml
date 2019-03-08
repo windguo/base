@@ -1,0 +1,6 @@
+<view class="pop_loading" style="top:{{top}}px;left:{{left}}px;">
+	<view class="ic">
+		<text class="i"></text>
+	</view>
+	<h2>{{loadingData.title}}</h2>
+</view>

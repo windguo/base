@@ -5,6 +5,9 @@
 <!-- tips提示条开始 -->
 <tips tips-data='{{tipsData}}'></tips>
 <!-- tips提示条结束 -->
+<!-- loading开始 -->
+<loading loading-data='{{loadingData}}'></loading>
+<!-- loading结束 -->
 <!-- 布局开始 -->
 <!--1、基础布局 -->
 <layout_base layout_base-data='{{layout_baseData}}'></layout_base>

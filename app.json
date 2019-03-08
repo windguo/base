@@ -3,7 +3,8 @@
 		"pages/index/index",
 		"component/tips/tips",
 		"component/layout/base/base",
-		"component/layout/flex/flex"
+		"component/layout/flex/flex",
+		"component/loading/loading"
 	],
 	"window": {
 		"backgroundTextStyle": "light",
