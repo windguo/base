@@ -1,0 +1,4 @@
+<view class="j_tips">
+	<text class="icon icon-{{tipsData.icon}}"></text>
+	<p>{{tipsData.title}}</p>
+</view>

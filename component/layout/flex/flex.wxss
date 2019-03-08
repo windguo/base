@@ -1,0 +1,13 @@
+.j_layout_grid{
+	margin:40rpx;
+	display: flex;
+	flex-flow:wrap;
+	justify-content: space-around;
+}
+.flex{
+	width: 32%;
+	padding:30rpx 0;
+	margin:10rpx 0;
+	text-align: center;
+	background:#ffffff;
+}

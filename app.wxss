@@ -1,0 +1,21 @@
+@import "icon.wxss";
+
+/* 初始化 */
+page {background: #f1f1f1;font-size: 32rpx;color: #333;font-family: Helvetica Neue, Helvetica, sans-serif;}
+view, text, scroll-view, swiper, button, form, input, textarea, label, navigator,image {box-sizing: border-box;}
+.round {border-radius: 5000rpx;}
+.radius {border-radius: 6rpx;}
+/* 间距 */
+.pat20{padding-top:20rpx;}
+.pal20{padding-left:20rpx;}
+.par20{padding-right:20rpx;}
+.pab20{padding-bottom:20rpx;}
+
+.pat40{padding-top:40rpx;}
+.pal40{padding-left:40rpx;}
+.par40{padding-right:40rpx;}
+.pab40{padding-bottom:40rpx;}
+/* 对齐 */
+.tl{text-align: left}
+.tc{text-align: center}
+.tr{text-align: right}

@@ -1,0 +1,8 @@
+{
+  "usingComponents": {
+		"header":"/component/header/header",
+		"tips": "/component/tips/tips",
+		"layout_base": "/component/layout/base/base",
+		"layout_flex": "/component/layout/flex/flex"
+	}
+}

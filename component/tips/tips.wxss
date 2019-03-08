@@ -1,0 +1,9 @@
+.j_tips{
+	background:#fffff0;
+	line-height:100rpx;
+	display: flex;
+}
+.icon{
+	padding:0 20rpx 0 40rpx;
+	color: red;
+}

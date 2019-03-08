@@ -1,0 +1,5 @@
+<view class="j_layout_base">
+	<view class="tl">left</view>
+	<view class="tr">right</view>
+	<view class="tc">center</view>
+</view>

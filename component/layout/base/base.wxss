@@ -1,0 +1,4 @@
+.j_layout_base{
+	margin:40rpx;
+	background: #fff;
+}

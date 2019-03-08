@@ -1,0 +1,13 @@
+<!-- 自定义头部开始 -->
+<header navbar-data='{{nvabarData}}'></header>
+<!-- 自定义头部结束 -->
+<view style="height:{{CustomBar}}px;"></view>
+<!-- tips提示条开始 -->
+<tips tips-data='{{tipsData}}'></tips>
+<!-- tips提示条结束 -->
+<!-- 布局开始 -->
+<!--1、基础布局 -->
+<layout_base layout_base-data='{{layout_baseData}}'></layout_base>
+<!--2、flex布局 -->
+<layout_flex layout_flex-data='{{layout_flexData}}'></layout_flex>
+<!-- 布局结束 -->
