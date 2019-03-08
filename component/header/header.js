@@ -14,11 +14,7 @@ Component({
 		StatusBar: app.globalData.StatusBar,
 		CustomBar: app.globalData.CustomBar,
 		titleTop: app.globalData.StatusBar + 6,
-		height: '',
-		//默认值  默认显示左上角
-		navbarData: {
-			showCapsule: true
-		}
+		height: ''
 	},
 	lifetimes:{
 		attached(){
