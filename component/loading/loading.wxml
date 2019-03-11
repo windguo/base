@@ -1,4 +1,4 @@
-<view class="pop_loading" style="top:{{top}}px;left:{{left}}px;">
+<view class="pop_loading" hidden="{{hidden}}" style="top:{{top}}px;left:{{left}}px;">
 	<view class="ic">
 		<text class="i"></text>
 	</view>

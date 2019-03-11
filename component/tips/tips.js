@@ -11,6 +11,48 @@ Component({
 		}
 	},
 	data: {
+		textData: [
+			{
+				nickName: "wang",
+				reward: "2"
+			},
+			{
+				nickName: "wang",
+				reward: "2"
+			},
+			{
+				nickName: "wang",
+				reward: "2"
+			},
+			{
+				nickName: "wang",
+				reward: "2"
+			},
+			{
+				nickName: "wang",
+				reward: "2"
+			},
+			{
+				nickName: "wang",
+				reward: "2"
+			},
+			{
+				nickName: "wang",
+				reward: "2"
+			},
+			{
+				nickName: "wang",
+				reward: "2"
+			},
+			{
+				nickName: "wang",
+				reward: "2"
+			},
+			{
+				nickName: "wang",
+				reward: "2"
+			},
+		],
 		StatusBar: app.globalData.StatusBar,
 		CustomBar: app.globalData.CustomBar,
 		height: '',

@@ -8,6 +8,9 @@
 <!-- loading开始 -->
 <loading loading-data='{{loadingData}}'></loading>
 <!-- loading结束 -->
+<!-- texts开始 -->
+<texts texts-data='{{textsData}}'></texts>
+<!-- texts结束 -->
 <!-- 布局开始 -->
 <!--1、基础布局 -->
 <layout_base layout_base-data='{{layout_baseData}}'></layout_base>

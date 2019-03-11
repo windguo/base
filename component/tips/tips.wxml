@@ -1,4 +1,18 @@
-<view class="j_tips">
+<!-- 单条文字布局开始 -->
+<view class="normal">
 	<text class="icon icon-{{tipsData.icon}}"></text>
 	<p>{{tipsData.title}}</p>
 </view>
+<!-- 单条文字布局结束 -->
+<!-- 单行文字向上滚动开始 -->
+<view class="textwrap">
+	<text class="icon icon-{{tipsData.icon}}"></text>
+	<swiper class='textUp' vertical="true" autoplay="true" circular="true" interval="3000" display-multiple-items='1'>
+			<block wx:for-index="idx" wx:for='{{textData}}'>
+				<swiper-item>
+					<text class='wawa'>获得奖金{{item.reward}}元</text>
+				</swiper-item>
+			</block> 
+	</swiper>
+</view>
+<!-- 单行文字向上滚动结束 -->

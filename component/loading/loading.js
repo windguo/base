@@ -11,6 +11,8 @@ Component({
     }
   },
   data: {
+		// true：不显示loading
+		hidden:true,
     top: 0,
     left: 0
   },

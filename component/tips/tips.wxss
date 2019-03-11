@@ -1,9 +1,28 @@
-.j_tips{
+.normal{
 	background:#fffff0;
 	line-height:100rpx;
 	display: flex;
 }
-.icon{
+.normal .icon{
 	padding:0 20rpx 0 40rpx;
 	color: red;
 }
+
+/* 文字向上滚动开始 */
+.textwrap{
+	position: relative;
+	background:#eafaec;
+}
+.textwrap .icon{
+	padding:0 20rpx 0 40rpx;
+	color: #115e1c;
+	position: absolute;
+	left:0;
+	top:15rpx;
+}
+.textwrap .textUp{
+	margin-left:100rpx;
+	height:80rpx;
+	line-height: 80rpx;
+}
+/* 文字向上滚动结束 */
