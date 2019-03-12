@@ -4,13 +4,14 @@
 		"component/tips/tips",
 		"component/layout/base/base",
 		"component/layout/flex/flex",
-		"component/loading/loading"
+		"component/loading/loading",
+		"pages/start/start"
 	],
 	"window": {
 		"backgroundTextStyle": "light",
 		"navigationBarBackgroundColor": "#fff",
 		"navigationBarTitleText": "简洁UI",
 		"navigationStyle": "custom",
-		"navigationBarTextStyle": "white"
+		"navigationBarTextStyle": "black"
 	}
 }

@@ -1,0 +1,30 @@
+<swiper
+	indicator-dots="true"
+  autoplay="{{autoplay}}"
+  interval="5000"
+  duration="200"
+	circular="true"
+	style="height:{{height}}px"
+	bindchange='onSlideChangeEnd'
+>
+    <swiper-item>
+      <view class="wrap first">
+				one
+			</view>
+    </swiper-item>
+		<swiper-item>
+      <view class="wrap two">
+				two
+			</view>
+    </swiper-item>
+		<swiper-item>
+      <view class="wrap three">
+				three
+			</view>
+    </swiper-item>
+		<swiper-item>
+      <view class="wrap four">
+				four
+			</view>
+    </swiper-item>
+</swiper>
