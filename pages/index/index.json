@@ -1,4 +1,5 @@
 {
+	"navigationBarTextStyle": "white",
   "usingComponents": {
 		"header":"/component/header/header",
 		"tips": "/component/tips/tips",
