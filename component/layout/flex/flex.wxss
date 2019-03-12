@@ -2,12 +2,12 @@
 	margin:40rpx;
 	display: flex;
 	flex-flow:wrap;
-	justify-content: space-around;
+	justify-content: first baseline;
 }
 .flex{
-	width: 32%;
+	width: 30%;
 	padding:30rpx 0;
-	margin:10rpx 0;
+	margin:10rpx;
 	text-align: center;
 	background:#ffffff;
 }
