@@ -5,7 +5,8 @@
 		"component/layout/base/base",
 		"component/layout/flex/flex",
 		"component/loading/loading",
-		"pages/start/start"
+		"pages/start/start",
+		"pages/popMenu/popMenu"
 	],
 	"window": {
 		"backgroundTextStyle": "light",
